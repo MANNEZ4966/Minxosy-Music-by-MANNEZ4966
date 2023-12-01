@@ -25,7 +25,6 @@ Coded By Kabir Singh | Tech Boy Development | MANNEZ
 }
 ```
 
-# ห้ามลบไฟล์นี้ออกนะครับ
 
 
 # Host | โฮสต์
